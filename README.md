@@ -1,3 +1,5 @@
+Answer saved in a google doc per request.
+
 # Labs Journal Entry: 1.1 - Product Vision
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them by providing answers to questions related to your product vision. This Sprint explored Product Vision: Planning your Labs Product. During this Sprint, you were given the following lessons:
